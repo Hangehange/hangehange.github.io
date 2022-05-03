@@ -15,17 +15,18 @@ Education
 * M.S. in Engineering, University of Jinan, 2020-Today
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-Work experience
+Academic Experiences
 ======
-* Summer 2015: Research Assistant
+* 基于SDN的网络流量行为分析
+* 加密货币挖掘网络行为识别s
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+<!-- * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
 Skills
 ======
